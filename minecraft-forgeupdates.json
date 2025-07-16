@@ -1,9 +1,9 @@
 [
     {
         "UpdateStageName": "Files Download Progress",
-        "UpdateSourcePlatform": "All",
+        "UpdateSourcePlatform": "Windows",
         "UpdateSource": "CopyFilePath",
-        "UpdateSourceArgs": "D:\\Modloader\\Neoforge\\neoforge_21.1.192.zip",
+        "UpdateSourceArgs": "./Instances/Modloader/Neoforge/neoforge_21.1.192.zip",
         "UpdateSourceTarget": "./minecraft-forge/serverfiles",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
