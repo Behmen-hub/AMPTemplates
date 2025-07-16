@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Servername",
+        "Category": "Server Settings",
+        "Description": "name des servers",
+        "Keywords": "servername",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "world",
+        "Placeholder": "world",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
