@@ -1,12 +1,12 @@
 [
     {
-        "UpdateStageName": "forge-1.20.1-47.4.2-installer.jar",
+        "UpdateStageName": "Files Download Progress",
         "UpdateSourcePlatform": "All",
-        "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.2/forge-1.20.1-47.4.2-installer.jar",
-        "UpdateSourceTarget": "Ziel: ./forge-1.20.1-47.4.2-installer.jar",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
+        "UpdateSource": "CopyFilePath",
+        "UpdateSourceArgs": "D:\\Modloader\\Neoforge\\neoforge_21.1.192.zip",
+        "UpdateSourceTarget": "./minecraft-forge/serverfiles",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
         "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": true
