@@ -1,10 +1,10 @@
 {
     "id": "42b5fdce-7143-48b2-98e6-bfcac23e2fe9",
     "authors": [
-        "behmen - Made with AMP Config Generator"
+        "behmen"
     ],
-    "origin": "https://github.com/Behmen-hub/AMPTemplates - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/Behmen-hub/AMPTemplates - Made with AMP Config Generator/AMPTemplates",
+    "origin": "https://github.com/Behmen-hub/AMPTemplates",
+    "url": "https://github.com/Behmen-hub/AMPTemplates",
     "imagefile": "",
-    "prefix": "behmen - Made with AMP Config Generator"
+    "prefix": "behmen"
 }
