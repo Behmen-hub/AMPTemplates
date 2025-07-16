@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Forge",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.2/forge-1.20.1-47.4.2-installer.jar",
+        "UpdateSourceTarget": "Ziel: ./forge/forge-1.20.1-47.4.2-installer.jar",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "UpdateSourceConditionValue": "true",
+        "DeleteAfterExtract": true,
+        "OneShot": true
+    }
+]
