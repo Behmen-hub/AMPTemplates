@@ -1,7 +1,0 @@
-[
-    {
-        "ConfigFile": "./minecraft-forge/serverfilesserver.properties",
-        "ConfigType": "ini",
-        "AutoMap": true
-    }
-]
